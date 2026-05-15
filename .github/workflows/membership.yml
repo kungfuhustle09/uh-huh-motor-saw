@@ -1,0 +1,326 @@
+name: membership
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+    because_fragrant:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: because_fragrant
+          run: |
+            npm install
+            timeout 343m node membership.js
+  
+    than_openly_anti:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: than_openly_anti
+          run: |
+            npm install
+            timeout 327m node membership.js
+  
+    pace_fooey_abaft:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: pace_fooey_abaft
+          run: |
+            npm install
+            timeout 340m node membership.js
+  
+    coal:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: coal
+          run: |
+            npm install
+            timeout 328m node membership.js
+  
+    reconsideration_cinch:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: reconsideration_cinch
+          run: |
+            npm install
+            timeout 312m node membership.js
+  
+    redesign_unless:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: redesign_unless
+          run: |
+            npm install
+            timeout 323m node membership.js
+  
+    zowie_since_aha:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: zowie_since_aha
+          run: |
+            npm install
+            timeout 330m node membership.js
+  
+    after_except:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: after_except
+          run: |
+            npm install
+            timeout 330m node membership.js
+  
+    whose:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: whose
+          run: |
+            npm install
+            timeout 326m node membership.js
+  
+    fellow_fashion_contrail:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: fellow_fashion_contrail
+          run: |
+            npm install
+            timeout 338m node membership.js
+  
+    overcharge_traditionalism_queasily:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: overcharge_traditionalism_queasily
+          run: |
+            npm install
+            timeout 338m node membership.js
+  
+    selfreliant:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: selfreliant
+          run: |
+            npm install
+            timeout 350m node membership.js
+  
+    to_settler:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: to_settler
+          run: |
+            npm install
+            timeout 316m node membership.js
+  
+    times_oof:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: times_oof
+          run: |
+            npm install
+            timeout 340m node membership.js
+  
+    upon:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: upon
+          run: |
+            npm install
+            timeout 311m node membership.js
+  
+    indeed_editor:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: indeed_editor
+          run: |
+            npm install
+            timeout 342m node membership.js
+  
+    ugh_ha:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: ugh_ha
+          run: |
+            npm install
+            timeout 349m node membership.js
+  
+    phony_lounge:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: phony_lounge
+          run: |
+            npm install
+            timeout 337m node membership.js
+  
+    yum_while_or:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: yum_while_or
+          run: |
+            npm install
+            timeout 341m node membership.js
+  
+    ugh:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: ugh
+          run: |
+            npm install
+            timeout 310m node membership.js
+  
